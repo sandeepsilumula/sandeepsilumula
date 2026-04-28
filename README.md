@@ -14,9 +14,9 @@ Here is a look at my progression from core scripting to automated infrastructure
 * 🔵 **[Part 2: PIPELINE - Microservice CI/CD Assembly Line](https://github.com/sandeepsilumula/pipeline-project)**
     * *Focus:* GitHub Actions, Continuous Integration (CI), Continuous Delivery (CD), and Automated Testing (`pytest`).
     * *Impact:* Built an automated deployment shield that runs unit tests and builds immutable Docker artifacts upon successful code commits.
-* ⏳ **Part 3: The Cloud Architect (Terraform & AWS)**
-    * *Status:* **[In Progress]**
-    * *Focus:* Infrastructure as Code (IaC), AWS Networking, and Automated Provisioning.
+* * ☁️ **[Part 3: ARCHITECT - AWS Infrastructure as Code](https://github.com/sandeepsilumula/terraform-project)**
+    * *Focus:* HashiCorp Terraform (HCL), Infrastructure as Code (IaC), AWS S3, and Automated Provisioning.
+    * *Impact:* Engineered reproducible, idempotent cloud environments using Terraform state to automatically provision AWS data centers and scale storage backends.
 
 ### 💡 Core Competencies
 * **Operations:** ITIL, Major Incident Response, Cross-functional Leadership
